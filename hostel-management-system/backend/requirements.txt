@@ -1,0 +1,7 @@
+Django==4.1.3
+djangorestframework==3.14.0
+mysqlclient==2.1.0
+django-cors-headers==3.13.0
+python-dotenv==0.21.0
+tensorflow==2.10.0  # For chatbot functionality
+nltk==3.7  # For natural language processing in chatbot
